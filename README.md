@@ -51,12 +51,17 @@ Estudiante de Ingeniería de Software en la <a href="https://www.upc.edu.pe/">Un
 
 ### 📈 Contributions & Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&theme=tokyonight" />
-</a>
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" style="max-width: 100%;" 
+         src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height="200" style="max-width: 100%;" 
+         src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&theme=tokyonight" />
+  </a>
+</div>
+
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nekolas777&theme=tokyo-night" 
      style="width: 100%;margin-top: 4px; border: 1px solid white; border-radius: 8px; display: block;">

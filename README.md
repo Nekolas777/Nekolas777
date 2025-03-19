@@ -51,7 +51,7 @@ Estudiante de Ingeniería de Software en la <a href="https://www.upc.edu.pe/">Un
 
 ### 📈 Contributions & Stats
 
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="200" style="max-width: 100%;" 
          src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=tokyonight" />

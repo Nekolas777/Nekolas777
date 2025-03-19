@@ -12,18 +12,16 @@ Estudiante de Ingeniería de Software en la <a href="https://www.upc.edu.pe/">Un
   
 ### 🧐 More About Me:
 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 <div style="display: flex; align-items: center; gap: 20px;">
   <div style="display: flex; flex-direction: column; align-items: flex-start; flex: 1;">
     <p>• 🚀 I’m currently learning <strong>Astro</strong> & <strong>Express</strong></p>
     <p>• 🤝 Looking to collaborate on <strong>social impact projects</strong> within communities</p>
     <p>• 🎨 Trying to get better at <strong>design</strong></p>
     <p>• 📖 Currently reading <strong>Refactoring UI</strong> by Adam Wathan</p>
-    <p>• 📝 Check out my <a href="#">resume</a> or <a href="#">LinkedIn</a></p>
+    <p>• 📝 Check out my <a href="#">resume</a> or linkedin</p>
     <p>• 🎮 In my free time, I enjoy <strong>playing indie games</strong> or <strong>playing with my cats</strong> 🐱</p>
     <p>• 💬 Ask me about <strong>CSS, Web Performance</strong> and <strong>frontend best practices</strong></p>
-  </div>
-  <div>
-    <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200" style="border-radius: 8px;">
   </div>
 </div>
 

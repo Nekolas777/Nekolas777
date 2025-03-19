@@ -9,7 +9,6 @@ Estudiante de Ingeniería de Software en la <a href="https://www.upc.edu.pe/">Un
 
 ### 🧐 More About Me:
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'>
 <div style="display: flex; align-items: center; gap: 20px;">
   <div style="display: flex; flex-direction: column; align-items: flex-start; flex: 1;">
     <p>• 🚀 I’m currently learning <strong>Astro</strong> & <strong>Express</strong></p>
@@ -20,6 +19,7 @@ Estudiante de Ingeniería de Software en la <a href="https://www.upc.edu.pe/">Un
     <p>• 🎮 In my free time, I enjoy <strong>playing indie games
     <p>• 💬 Ask me about <strong>CSS, Web Performance</strong> and <strong>frontend best practices</strong></p>
   </div>
+  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'>
 </div>
 </br>
 

@@ -5,6 +5,7 @@
 <div style="margin-top: 10px;">  
 Estudiante de Ingeniería de Software en la <a href="https://www.upc.edu.pe/">Universidad Peruana de Ciencias Aplicadas</a> ♨️, apasionado por diseñar <strong>experiencias de usuario intuitivas y agradables</strong>. Disfruto colaborar en el desarrollo de <strong>proyectos con impacto social</strong>, incluyendo <strong>organizaciones y comunidades</strong> que contribuyan a generar un cambio positivo :D
 </div>
+</br>
 
 ### 🧐 More About Me:
 

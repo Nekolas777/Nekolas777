@@ -3,7 +3,7 @@
 ### 💻 Frontend Developer | Web Performance & SEO Enthusiast
 
 <div style="margin-top: 10px;">  
-Estudiante de Ingeniería de Software en la <a href="https://www.upc.edu.pe/">Universidad Peruana de Ciencias Aplicadas</a> ♨️, apasionado por diseñar <strong>experiencias de usuario intuitivas y agradables</strong>. Disfruto colaborar en el desarrollo de <strong>proyectos con impacto social</strong>, incluyendo <strong>organizaciones y comunidades</strong> que contribuyan a generar un cambio positivo :D
+  Software Engineering student at <a href="https://www.upc.edu.pe/">Universidad Peruana de Ciencias Aplicadas</a> ♨️, passionate about designing <strong>intuitive and enjoyable user experiences</strong>. I enjoy collaborating on the development of <strong>social impact projects</strong>, including <strong>asociations and communities</strong> that contribute to positive change :D  
 </div>
 </br>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='240'>

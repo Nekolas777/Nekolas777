@@ -2,8 +2,6 @@
 
 ### 💻 Frontend Developer | Web Performance & SEO Enthusiast
 
-![Logo](assets/cat-banner.gif)
-
 <div style="margin-top: 10px;">  
 Estudiante de Ingeniería de Software en la <a href="https://www.upc.edu.pe/">Universidad Peruana de Ciencias Aplicadas</a> ♨️, apasionado por diseñar <strong>experiencias de usuario intuitivas y agradables</strong>. Disfruto colaborar en el desarrollo de <strong>proyectos con impacto social</strong>, incluyendo <strong>organizaciones y comunidades</strong> que contribuyan a generar un cambio positivo :D
 </div>
@@ -53,14 +51,12 @@ Estudiante de Ingeniería de Software en la <a href="https://www.upc.edu.pe/">Un
 
 ### 📈 Contributions & Stats
 
-<div style="display: flex;gap:14px;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200px" width="100%" src="https://github-readme-stats.vercel.app/api?username=Nekolas777&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height="200px" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nekolas777&layout=compact&langs_count=6&theme=tokyonight" />
-  </a>
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+</a>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nekolas777&theme=tokyo-night" 
      style="width: 100%;margin-top: 4px; border: 1px solid white; border-radius: 8px; display: block;">

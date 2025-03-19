@@ -6,10 +6,11 @@
 Estudiante de Ingeniería de Software en la <a href="https://www.upc.edu.pe/">Universidad Peruana de Ciencias Aplicadas</a> ♨️, apasionado por diseñar <strong>experiencias de usuario intuitivas y agradables</strong>. Disfruto colaborar en el desarrollo de <strong>proyectos con impacto social</strong>, incluyendo <strong>organizaciones y comunidades</strong> que contribuyan a generar un cambio positivo :D
 </div>
 </br>
+</br>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'>
 
 ### 🧐 More About Me:
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'>
 <div style="display: flex; align-items: center; gap: 20px;">
   <div style="display: flex; flex-direction: column; align-items: flex-start; flex: 1;">
     <p>• 🚀 I’m currently learning <strong>Astro</strong> & <strong>Express</strong></p>

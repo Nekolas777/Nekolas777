@@ -10,13 +10,13 @@ Estudiante de Ingeniería de Software en la <a href="https://www.upc.edu.pe/">Un
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently learning **[Astro](https://astro.build/)** & **[Express](https://expressjs.com/)**  
+- 🔭 &nbsp; I’m currently learning **Astro** & **Express**  
 - 🤝 &nbsp; Looking to collaborate on **social impact projects** within communities  
 - 🎨 &nbsp; Improving my skills in web design with **Figma**  
-- 📖 &nbsp; Currently reading **[Refactoring UI](https://www.refactoringui.com/)** by Adam Wathan  
-- 📝 &nbsp; Check out my **[Resume](#)** or connect on **[LinkedIn](https://www.linkedin.com/in/nicolas-sebastian-esteban-garc%C3%ADa-b5511728a/)**  
+- 📖 &nbsp; Currently reading **Refactoring UI** by Adam Wathan  
 - 🎮 &nbsp; Casual user on **[Frontend Mentor](https://www.frontendmentor.io/profile/Nekolas777)** and **[Dev Challenges](https://devchallenges.io/profile/daf4822e-c218-42e7-a65d-9a2154a57593)**  
 - 💬 &nbsp; Ask me about **CSS**, **Web Performance**, and **frontend best practices**  
+- 📝 &nbsp; Check out my **[Resume](#)** or connect on **[LinkedIn](https://www.linkedin.com/in/nicolas-sebastian-esteban-garc%C3%ADa-b5511728a/)**  
 
 </br>
 

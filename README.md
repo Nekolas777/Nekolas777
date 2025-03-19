@@ -22,11 +22,9 @@ Estudiante de Ingeniería de Software en la <a href="https://www.upc.edu.pe/">Un
     <p>• 🎮 In my free time, I enjoy <strong>playing indie games</strong> or <strong>playing with my cats</strong> 🐱</p>
     <p>• 💬 Ask me about <strong>CSS, Web Performance</strong> and <strong>frontend best practices</strong></p>
   </div>
-  <div style="display: flex; justify-content: center; align-items: center;transform: translateY(-20px);">
-    <img style="max-width: 100%; height: auto;" 
+  <img style="max-width: 100%; height: auto;" 
          src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" 
          width="200px" alt="GIF">
-  </div>
 </div>
 
 ### 🔨 Languages and Tools:

@@ -2,8 +2,9 @@
 
 ### 💻 Frontend Developer | Web Performance & SEO Enthusiast
 
-<img src="assets/cat-banner.gif" alt="Logo" style="width: 100%; height: 275px;margin-top:4px;">
-
+<p align="center">
+  <img src="assets/cat-banner.gif" alt="Logo" width="100%" height="275">
+</p>
 
 <div style="margin-top: 10px;">  
 Estudiante de Ingeniería de Software en la <a href="https://www.upc.edu.pe/">Universidad Peruana de Ciencias Aplicadas</a> ♨️, apasionado por diseñar <strong>experiencias de usuario intuitivas y agradables</strong>. Disfruto colaborar en el desarrollo de <strong>proyectos con impacto social</strong>, incluyendo <strong>organizaciones y comunidades</strong> que contribuyan a generar un cambio positivo :D
@@ -20,7 +21,7 @@ Estudiante de Ingeniería de Software en la <a href="https://www.upc.edu.pe/">Un
     <p>• 🎨 Trying to get better at <strong>design</strong></p>
     <p>• 📖 Currently reading <strong>Refactoring UI</strong> by Adam Wathan</p>
     <p>• 📝 Check out my <a href="#">resume</a> or linkedin</p>
-    <p>• 🎮 In my free time, I enjoy <strong>playing indie games</strong> or <strong>playing with my cats</strong> 🐱</p>
+    <p>• 🎮 In my free time, I enjoy <strong>playing indie games
     <p>• 💬 Ask me about <strong>CSS, Web Performance</strong> and <strong>frontend best practices</strong></p>
   </div>
 </div>

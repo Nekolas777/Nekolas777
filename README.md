@@ -2,7 +2,7 @@
 
 ### 💻 Frontend Developer | Web Performance & SEO Enthusiast
 
-<img src="assets/cat-banner.gif" alt="Logo" style="width: 100%; height: 250px;margin-top:4px;">
+<img src="assets/cat-banner.gif" alt="Logo" style="width: 100%; height: 275px;margin-top:4px;">
 
 
 <div style="margin-top: 10px;">  
@@ -54,7 +54,7 @@ Estudiante de Ingeniería de Software en la <a href="https://www.upc.edu.pe/">Un
 
 ### 📈 Contributions & Stats
 
-<div style="display: flex; justify-content: stretch; gap: 14px; width: 100%;">
+<div style="display: flex;gap:14px;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="200px" width="100%" src="https://github-readme-stats.vercel.app/api?username=Nekolas777&theme=tokyonight" />
   </a>

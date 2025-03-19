@@ -6,27 +6,28 @@
 Estudiante de Ingeniería de Software en la <a href="https://www.upc.edu.pe/">Universidad Peruana de Ciencias Aplicadas</a> ♨️, apasionado por diseñar <strong>experiencias de usuario intuitivas y agradables</strong>. Disfruto colaborar en el desarrollo de <strong>proyectos con impacto social</strong>, incluyendo <strong>organizaciones y comunidades</strong> que contribuyan a generar un cambio positivo :D
 </div>
 
-  
 ### 🧐 More About Me:
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'>
 <div style="display: flex; align-items: center; gap: 20px;">
   <div style="display: flex; flex-direction: column; align-items: flex-start; flex: 1;">
     <p>• 🚀 I’m currently learning <strong>Astro</strong> & <strong>Express</strong></p>
     <p>• 🤝 Looking to collaborate on <strong>social impact projects</strong> within communities</p>
-    <p>• 🎨 Trying to get better at <strong>design</strong></p>
+    <p>• 🎨 Trying to get better at <strong>web design</strong></p>
     <p>• 📖 Currently reading <strong>Refactoring UI</strong> by Adam Wathan</p>
     <p>• 📝 Check out my <a href="#">resume</a> or linkedin</p>
     <p>• 🎮 In my free time, I enjoy <strong>playing indie games
     <p>• 💬 Ask me about <strong>CSS, Web Performance</strong> and <strong>frontend best practices</strong></p>
   </div>
 </div>
+</br>
 
 ### 🔨 Languages and Tools:
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,astro,vue,css,tailwind,bootstrap,sass,nodejs,python,dart,flutter,java,spring,git,jest,mysql,postgres,azure,docker,figma&theme=dark"/>
 </p>
+</br>
 
 ### 🤝 Connect with Me  
 
@@ -47,6 +48,7 @@ Estudiante de Ingeniería de Software en la <a href="https://www.upc.edu.pe/">Un
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
   </a>
 </div>
+</br>
 
 
 ### 📈 Contributions & Stats

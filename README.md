@@ -58,7 +58,7 @@ Estudiante de Ingeniería de Software en la <a href="https://www.upc.edu.pe/">Un
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
     <img height="200" style="max-width: 100%;" 
-         src="https://github-readme-stats.vercel.app/api/top-langs?username=Nekolas777&layout=compact&langs_count=8&card_width=360&theme=tokyonight&hide_border=true" />
+         src="https://github-readme-stats.vercel.app/api/top-langs?username=Nekolas777&layout=compact&langs_count=8&card_width=361&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 

@@ -53,7 +53,7 @@ Estudiante de Ingeniería de Software en la <a href="https://www.upc.edu.pe/">Un
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;" align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" style="max-width: 100%;margin-left:5px" 
+    <img height="200" style="max-width: 100%;margin-right:5px" 
          src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=tokyonight" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">

@@ -27,7 +27,6 @@ Estudiante de Ingeniería de Software en la <a href="https://www.upc.edu.pe/">Un
 <p align="left">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,astro,vue,css,tailwind,bootstrap,sass,nodejs,python,dart,flutter,java,spring,git,jest,mysql,postgres,azure,docker,figma&theme=dark"/>
 </p>
-</br>
 
 ### 🤝 Connect with Me  
 
@@ -48,8 +47,6 @@ Estudiante de Ingeniería de Software en la <a href="https://www.upc.edu.pe/">Un
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
   </a>
 </div>
-</br>
-
 
 ### 📈 Contributions & Stats
 

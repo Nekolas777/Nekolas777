@@ -6,17 +6,18 @@
 Estudiante de Ingeniería de Software en la <a href="https://www.upc.edu.pe/">Universidad Peruana de Ciencias Aplicadas</a> ♨️, apasionado por diseñar <strong>experiencias de usuario intuitivas y agradables</strong>. Disfruto colaborar en el desarrollo de <strong>proyectos con impacto social</strong>, incluyendo <strong>organizaciones y comunidades</strong> que contribuyan a generar un cambio positivo :D
 </div>
 </br>
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='225' style="display: inline-block; transform: translateY(10px);">
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'>
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently learning **Astro** & **Express**  
+- 🔭 &nbsp; I’m currently learning **[Astro](https://astro.build/)** & **[Express](https://expressjs.com/)**  
 - 🤝 &nbsp; Looking to collaborate on **social impact projects** within communities  
-- 🎨 &nbsp; Trying to get better at **web design**  
-- 📖 &nbsp; Currently reading **Refactoring UI** by Adam Wathan  
-- 📝 &nbsp; Check out my [resume](#) or [LinkedIn](#)  
-- 🎮 &nbsp; In my free time, I enjoy **playing indie games**  
-- 💬 &nbsp; Ask me about **CSS, Web Performance**, and **frontend best practices**  
+- 🎨 &nbsp; Improving my skills in web design with **Figma**  
+- 📖 &nbsp; Currently reading **[Refactoring UI](https://www.refactoringui.com/)** by Adam Wathan  
+- 📝 &nbsp; Check out my **[Resume](#)** or connect on **[LinkedIn](https://www.linkedin.com/in/nicolas-sebastian-esteban-garc%C3%ADa-b5511728a/)**  
+- 🎮 &nbsp; Casual user on **[Frontend Mentor](https://www.frontendmentor.io/profile/Nekolas777)** and **[Dev Challenges](https://devchallenges.io/profile/daf4822e-c218-42e7-a65d-9a2154a57593)**  
+- 💬 &nbsp; Ask me about **CSS**, **Web Performance**, and **frontend best practices**  
+
 </br>
 
 ### 🔨 Languages and Tools:
@@ -28,22 +29,23 @@ Estudiante de Ingeniería de Software en la <a href="https://www.upc.edu.pe/">Un
 ### 🤝 Connect with Me  
 
 <div style="display: flex; gap: 8px; flex-wrap: wrap;">
-  <a href="https://discord.com/" target="_blank">
+  <a href="https://discord.com/users/680496667979546704" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-  <a href="https://www.linkedin.com/in/tu-perfil" target="_blank">
+  <a href="https://www.linkedin.com/in nicolas-sebastian-esteban-garc%C3%ADa-b5511728a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:tuemail@gmail.com">
+  <a href="mailto:nick2000.1985@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.instagram.com/tu-usuario" target="_blank">
+  <a href="https://www.instagram.com/nkolas2.0" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://www.youtube.com/c/tu-canal" target="_blank">
+  <a href="https://www.youtube.com/@nicolasestebangarcia4769" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
   </a>
 </div>
+</br>
 
 ### 📈 Contributions & Stats
 

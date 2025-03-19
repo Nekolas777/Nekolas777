@@ -16,8 +16,7 @@ Estudiante de Ingeniería de Software en la <a href="https://www.upc.edu.pe/">Un
 - 📖 &nbsp; Currently reading **Refactoring UI** by Adam Wathan  
 - 🎮 &nbsp; Casual user on **[Frontend Mentor](https://www.frontendmentor.io/profile/Nekolas777)** and **[Dev Challenges](https://devchallenges.io/profile/daf4822e-c218-42e7-a65d-9a2154a57593)**  
 - 💬 &nbsp; Ask me about **CSS**, **Web Performance**, and **frontend best practices**  
-- 📝 &nbsp; Check out my **[Resume](#)** or connect on **[LinkedIn](https://www.linkedin.com/in/nicolas-sebastian-esteban-garc%C3%ADa-b5511728a/)**  
-
+- 📝 &nbsp; Take a look at my **[Resume](#)** for more details. 
 </br>
 
 ### 🔨 Languages and Tools:

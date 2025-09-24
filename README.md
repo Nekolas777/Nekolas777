@@ -43,6 +43,9 @@
   <a href="https://www.youtube.com/@nicolasestebangarcia4769" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
   </a>
+  <a href="https://nekolas-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
+  </a>
 </div>
 
 ### 📈 Contributions & Stats

@@ -1,6 +1,6 @@
 #  Hi, I'm Nicolas Esteban (Nekolas) <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" style="display: inline-block; transform: translateY(4px);">
 
-### 💻 Frontend Developer | Web Performance & SEO Enthusiast
+### 💻 Frontend Developer | Web Performance, Accessibility & UX
 
 <div style="margin-top: 10px;">  
   Software Engineering student at <a href="https://www.upc.edu.pe/">Universidad Peruana de Ciencias Aplicadas</a> ♨️, passionate about designing <strong>intuitive and enjoyable user experiences</strong>. I enjoy collaborating on the development of <strong>social impact projects</strong>, including <strong>asociations and communities</strong> that contribute to positive change :D  
